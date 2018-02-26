@@ -1,1 +1,3 @@
-:# Testpg
+#	Bippi Chatbot
+
+Messenger bot, sales chatbot
